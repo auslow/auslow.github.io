@@ -6,10 +6,7 @@
         <style>
             h2 { color:rgb(237, 43, 104);}
             body {background-color:rgb(151, 222, 165);
-            {text-align: center }
-            {font-family: verdana;}
-            {font-size: 20px;}
-                
+             
             }
         </style>
  
