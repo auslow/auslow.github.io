@@ -6,9 +6,13 @@
         <style>
             h2 { color:rgb(237, 43, 104);}
             body {background-color:rgb(151, 222, 165);
+            {text-align: center }
+            {font-family: verdana;}
+            {font-size: 20px;}
                 
             }
         </style>
+ 
     
     </head>
     
@@ -24,6 +28,7 @@
            <li>drinking hot chocolate
            
        </ul>
+
         
     </body> <h3>We hope to see you all here!</h3>
     
